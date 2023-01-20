@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **vikash-singh-prac/vikash-singh-prac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi! I am Vikash Singh
+🌱 I'm currently learning Database Design and Big Data Systems 
+🔭 I'm currently working on building data-driven applications and pipelines
+📫 Reach out to me at singh.vikas@northeastern.edu
