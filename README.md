@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi! I am Vikash Singh
+
 🌱 I'm currently learning Database Design and Big Data Systems 
+
 🔭 I'm currently working on building data-driven applications and pipelines
+
 📫 Reach out to me at singh.vikas@northeastern.edu
